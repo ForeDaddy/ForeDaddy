@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about Hack Reactor, Real Estate, Mongoose.js...
 
-📫 How to reach me: [linkedIn Profile](https://www.linkedin.com/in/donnneufeld/) | [twitter](https://twitter.com/DonnNeuf)
+📫 How to reach me: [linkedIn](https://www.linkedin.com/in/donnneufeld/) | [twitter](https://twitter.com/DonnNeuf)
 
 😄 Pronouns: He/Him
 
