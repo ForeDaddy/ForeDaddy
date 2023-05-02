@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on checklists app in React-native as a personal project.
+🔭 I’m currently working on a "Pre-flight" style checklists app in React-native as a personal project.
 
 🌱 I’m currently learning TypeScript and FireBase.
 
