@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on checklists app in React-native as a personal project.
+🌱 I’m currently learning TypeScript and FireBase.
+👯 I’m looking to collaborate on front-end React and React-native apps.
+🤔 I’m looking for help with sourcing full time employment as a full-stack developer.
+💬 Ask me about Hack Reactor, Real Estate, Mongoose.js...
+📫 How to reach me: [linkedIn Profile](https://www.linkedin.com/in/donnneufeld/) | [twitter](https://twitter.com/DonnNeuf)
+😄 Pronouns: He/Him
+⚡ Fun fact: Outside of coding, I enjoy golf :golf: | sailing :sailboat: | beach :beach_umbrella:
