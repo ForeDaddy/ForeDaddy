@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: Outside of coding, I enjoy golf :golf: | sailing :sailboat: | beach :beach_umbrella:
+⚡ Fun fact: Outside of coding, I enjoy :golf: |  :sailboat: |  :beach_umbrella: | :desert: | :camping: | 	:motorcycle:
