@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on front-end React and React-native apps.
 
-🤔 I’m looking for help with sourcing full time employment as a full-stack developer.
+🤔 I’m looking for help with sourcing employment as a full-stack developer.
 
 💬 Ask me about Hack Reactor, Real Estate, Mongoose.js...
 
