@@ -27,6 +27,4 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/donnneufeld/) | [twitter](https://twitter.com/DonnNeuf)
 
-😄 Pronouns: He/Him
-
 ⚡ Fun fact: Outside of coding, I enjoy :golf: |  :sailboat: |  :beach_umbrella: | :desert: | :camping: | 	:motorcycle:
